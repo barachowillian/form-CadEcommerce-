@@ -12,7 +12,7 @@ Projeto criado como parte avaliativa da disciplina de Fundamentos de Desenvolvim
 O projeto consiste em três arquivos HTML nos quais são, index.html, endereco.html e final.html, uma demonstração de como criar um cadastro em uma loja virtual, que ira pedir seus dad0s de endereço e dados pessoais.
  
 
-#### Index HTML
+#### Arquivo HTML
   A seguir será possivel visualizar os elementos usados na estrutura HTML do arquivo index.html, endereco.html e final.html:
   
 
@@ -64,7 +64,8 @@ A seguir será possivel visualizar os elementos mencionados a cima:
 
  Veja a imagem a seguir onde é possivel visulizar os elemntos mencionados acima:
 
-![img](img/imgbuttonhtml.png)
+![img](img/buttonhtml.png)
+
 
 * `flex-direction: column; function` :   A propriedade flex-direction permite alterar a direção na qual os elementos flex serão exibidos ao longo do eixo principal. Definindo a propriedade flex-direction como row-reverse (linha reversa) ainda teremos os elementos dispostos em uma linha, entretanto, as linhas inicial e final serão trocadas
 
@@ -74,17 +75,18 @@ A seguir será possivel visualizar os elementos mencionados a cima:
               
 A seguir sera possivel visualizar os elementos mencionados acima:
 
- ![img](img/)
-
+ ![img](img/formhtmlmaincss.png)
  
 ### Resultado do projeto
 
 Veja a seguir a imagem onde é possivel ver o resultado final do projeto:
-![IMAGEM](img/projeto.png)
+![IMAGEM](img/pt1final.png)
+![IMAGEM](img/pt2final.png)
+![IMAGEM](img/pt3final.png)
  
 ## Tecnologia
 
-A seguir estará listado as tecnologias que foi utilizadas para este arquivo:
+A seguir estará listado as tecnologias que foram utilizadas para este arquivo HTML:
 
 
 * HTML5
