@@ -39,26 +39,42 @@ Veja a imagem a seguir onde é possivel visualizar os elementos mencionados acim
 
  
 ### Propriedades CSS
- 
-* `background-color` - define a cor de fundo de um elemento.
-
-* `color`: O tipo de dado CSS <color> indica um cor no espaço sRGB . Uma cor pode ser descrita em qualquer uma destas formas:
-
-* `Border`: A propriedade border adiciona um contorno ao redor do conteúdo do elemento HTML.
- 
- Veja a imagem a seguir onde é possivel visulizar os elemntos mencionados acima:
-
-![img](img/imgborderecolor.png)
-
- * `width` : A propriedade CSS width determina a largura da área de conteúdo de um elemento
 
  * ``height``: A propriedade "height" no HTML é utilizada para definir a altura de um elemento. 
 
- * `font-weight`: A propriedade font-weight é utilizada para aplicar ou remover negrito de um elemento de texto.
+* `padding`: A propriedade padding define uma a distância entre o conteúdo de um elemento e suas bordas. É um atalho que evita definir uma distância para cada lado separadamente ( padding-top , padding-right , padding-bottom , padding-left ).
+ 
+* `display- flex`: O display: flex funciona de uma maneira diferente dos outros displays. Quando colocamos essa propriedade em um elemento, esse elemento se torna um flex container, a partir daí podemos manipular todos os elementos filhos desse flex container com propriedades novas.
 
+A seguir será possivel visualizar os elementos mencionados a cima:
+
+![html](img/paddinghtml.png)
+
+* `background-color`: Utilizamos essa propriedade para alterar a cor do plano de fundo, seja de um elemento ou do documento como um todo. Para isso, basta atribuir a cor desejada à propriedade background-color, declarada dentro do seletor no qual ela deve ser aplicada.
+
+ * `width` : A propriedade CSS width determina a largura da área de conteúdo de um elemento
+
+* `Border`: A propriedade border adiciona um contorno ao redor do conteúdo do elemento HTML.
+  
+* `Border Radius`: O border radius é uma propriedade CSS que permite adicionar cantos arredondados a um elemento, essa propriedade é usada para arredondar os cantos de um elemento especificado, ele pode ser aplicado a qualquer elemento HTML.
+
+* `Color`: A propriedade color é utilizada para definir a cor do texto de um elemento HTML. Quando aplicada a um elemento, o texto dentro dele terá a cor definida.
+
+* `font-weight`: A propriedade font-weight é utilizada para aplicar ou remover negrito de um elemento de texto.
+
+ Veja a imagem a seguir onde é possivel visulizar os elemntos mencionados acima:
+
+![img](img/imgbuttonhtml.png)
+
+* `flex-direction: column; function` :   A propriedade flex-direction permite alterar a direção na qual os elementos flex serão exibidos ao longo do eixo principal. Definindo a propriedade flex-direction como row-reverse (linha reversa) ainda teremos os elementos dispostos em uma linha, entretanto, as linhas inicial e final serão trocadas
+
+* ` align-items: center;`:  O align-items: center garante que os flex-items dentro de um elemento com display flex vão centralizar (verticalmente e horizontalmente).
+
+* `background-image: linear-gradient`: A função linear-gradient() é utilizada em conjunto com propriedades que aceitam a aplicação de imagem, entre elas background-image, border-image, entre outras. Na prática, ela cria um efeito degradê em forma linear e é aplicada como uma imagem de fundo — CSS background gradient.
+              
 A seguir sera possivel visualizar os elementos mencionados acima:
 
- ![img](img/imgwidht.png)
+ ![img](img/formhtmlmaincss.png)
 
  
 ### Resultado do projeto
