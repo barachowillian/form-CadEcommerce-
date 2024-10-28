@@ -74,7 +74,7 @@ A seguir será possivel visualizar os elementos mencionados a cima:
               
 A seguir sera possivel visualizar os elementos mencionados acima:
 
- ![img](img/formhtmlmaincss.png)
+ ![img](img/)
 
  
 ### Resultado do projeto
